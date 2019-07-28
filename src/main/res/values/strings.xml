@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConversorMonedas</string>
+    <string name="titulo">Conversor de Monedas</string>
+    <string name="boton">Convertir</string>
+    <string name="conversor">Convertir:</string>
+    <string name="de">De:</string>
+    <string name="para">Para:</string>
+    <string-array name="monedas">
+        <item>Pesos</item>
+        <item>Dolares</item>
+        <item>Euros</item>
+        <item>Libra Esterlina</item>
+    </string-array>
+</resources>
