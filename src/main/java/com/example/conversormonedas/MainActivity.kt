@@ -9,8 +9,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-
         setContentView(R.layout.activity_main)
 
         val adapter = ArrayAdapter.createFromResource(this, R.array.monedas, android.R.layout.simple_spinner_item)
