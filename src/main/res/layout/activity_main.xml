@@ -48,9 +48,9 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <TextView
+        <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="43dp"
                 android:id="@+id/de"
                 android:text="@string/de"
                 android:textSize="24sp"

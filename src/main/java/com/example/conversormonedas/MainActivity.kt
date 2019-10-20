@@ -14,8 +14,8 @@ class MainActivity : AppCompatActivity() {
         val adapter = ArrayAdapter.createFromResource(this, R.array.monedas, android.R.layout.simple_spinner_item)
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
 
-        spinner.adapter = adapter;
-        spinner2.adapter = adapter;
+        spinner.adapter = adapter
+        spinner2.adapter = adapter
 
 
         boton_convertir.setOnClickListener {
